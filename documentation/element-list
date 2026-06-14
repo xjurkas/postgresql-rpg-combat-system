@@ -1,0 +1,13 @@
+com.oop.referendumserver
+com.oop.referendumserver.db.configuration
+com.oop.referendumserver.db.model
+com.oop.referendumserver.db.repository
+com.oop.referendumserver.services
+com.oop.referendumserver.services.dto
+com.oop.referendumserver.services.evaluators
+com.oop.referendumserver.services.exceptions
+com.oop.referendumserver.tools
+com.oop.referendumserver.view
+com.oop.referendumserver.view.components
+com.oop.referendumserver.view.context
+com.oop.referendumserver.view.controllers
